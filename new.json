@@ -38,7 +38,7 @@
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
-		},{
+	},{
 		"key": "82mao",
 		"name": "天龙影院",
 		"type": 1,
@@ -74,6 +74,32 @@
 		"filterPlay": "",
 		"firstPlay": "wjm3u8",
 		"ext": "https://api.wujinapi.me/api.php/provide/vod/",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "zuidazy",
+		"name": "最大资源",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://zuidazy.me/api.php/provide/vod",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+    },{
+		"key": "hhzyapi",
+		"name": "火狐资源",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://hhzyapi.com/api.php/provide/vod",
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
