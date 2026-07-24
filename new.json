@@ -155,6 +155,19 @@
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
+	 },{
+		"key": "hnzyapi",
+		"name": "红牛资源",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://hongniuzy2.com/api.php/provide/vod/from/hnm3u8",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
 	},{
 		"key": "iKunzy",
 		"name": "iKun资源",
