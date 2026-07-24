@@ -338,6 +338,19 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
+		"key": "suoniapi",
+		"name": "索尼资源",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://suoniapi.com/api.php/provide/vod/",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
 		"key": "slapibf",
 		"name": "森林资源",
 		"type": 1,
