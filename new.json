@@ -13,6 +13,19 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
+		"key": "360zy",
+		"name": "360资源",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://360zy.com/api.php/provide/vod/",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
 		"key": "iKunzy",
 		"name": "iKun资源",
 		"type": 0,
@@ -35,19 +48,6 @@
 		"filterPlay": "feifan",
 		"firstPlay": "",
 		"ext": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": ""
-	},{
-		"key": "82mao",
-		"name": "天龙影院",
-		"type": 1,
-		"searchable": 1,
-		"filterClass": "VIP影片,公告,动漫频道,海外动漫,国产动漫,日韩动漫,欧美动漫,港台动漫,综艺小品,微电影,电视剧场,电影频道,内地综艺,港台综艺,日韩综艺,欧美综艺",
-		"firstClass": "国产剧,香港剧",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://www.82mao.com/api.php/provide/vod/",
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
