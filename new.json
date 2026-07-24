@@ -203,7 +203,7 @@
 		"firstClass": "",
 		"filterPlay": "",
 		"firstPlay": "",
-		"ext": "http://lovedan.net/api.php/provide/vod",
+		"ext": "https://lovedan.net/api.php/provide/vod",
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
@@ -324,6 +324,19 @@
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""	
+	},{
+		"key": "drpy_js",
+		"name": "瓜子影视",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://raw.githubusercontent.com/franksun1211/TXT/main/TVbox/VS194-SU147/drpy_js/%E7%93%9C%E5%AD%90.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
 	},{
 		"key": "slapibf",
 		"name": "森林资源",
